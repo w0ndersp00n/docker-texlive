@@ -25,7 +25,6 @@ RUN export LANG=C.UTF-8 &&\
                           texlive-full=2017.2018* \
                           texlive-fonts-extra=2017.2018* \
                           texlive-fonts-recommended=2017.2018* \
-                          texlive-math-extra=2017.2018* \                       
                           texlive-luatex=2017.2018* \
                           texlive-pstricks=2017.2018* \
                           texlive-science=2017.2018* \
